@@ -14,7 +14,7 @@ export const MainStyle = styled.main`
       0% 0% no-repeat padding-box;
     position: relative;
     bottom: 25rem;
-    border-bottom: yellow solid;
+   
   }
 
   .titlesContainer {
