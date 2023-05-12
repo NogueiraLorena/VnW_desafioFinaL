@@ -1,0 +1,34 @@
+Olá, pessoal, estavam ansiosos para o desafio final? Enfim, chegou a hora!
+
+Nosso desafio contará com alguns requisitos e deverá ser construído com as tecnologias que vocês tem aprendido durante o todo o módulo:
+
+O desafio será dividido em dois níveis, e você poderá escolher o nível que for mais confortável para você. Isso 
+não diminui suas habilidades e aprendizados. Assim como no módulo 1, a questão dos níveis não é medir inteligência,
+mas sim o tempo que você tem disponível para se dedicar a ele.
+
+
+BASE:
+Deve-se usar: React(com create-react-app ou vite) e ultilizar styled-components para estilização.
+O DESIGNER DEVE SER O MAIS FIEL POSSÍVEL.
+
+
+
+Nível 1:
+     A página pode ser estática (sem funções ou interações), nesse caso as imagem serão colocadas uma a uma baixadas do
+     modelo do layout do adobe, e não virão de uma API.
+     O carousel pode ser construído utilizando as fotos disponíveis no desing
+     A barra de pesquisa e as rotas não precisam ser funcionais.
+Nível 2:
+     A página deve ser funcional
+     Os filmes precisam vir da API (https://www.themoviedb.org/)
+     As rotas precisam funcionar
+     A barra de pesquisa deve ser funcional, ou seja, pesquisar filmes pelo titúlo.
+   
+EXTRAS: PARA QUEM JÁ CONCLUIU O NIVEL 1 E NIVEL 2
+
+     Responsivo
+     Página de login
+     Rotas dos gêneros
+
+Link do Layout: https://xd.adobe.com/view/83fecb37-c2e0-4c64-ae2a-2b65717e277c-d6ad/
+Link de apoio:  https://github.com/brendonrodri/filmesApi

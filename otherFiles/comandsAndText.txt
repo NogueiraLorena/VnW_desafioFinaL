@@ -1,0 +1,63 @@
+npm install react-elastic-carousel
+
+npm install react-elastic-carousel --force
+
+https://sag1v.github.io/react-elastic-carousel/
+
+https://seuladogeek.com.br/wp-content/uploads/2022/04/Ruptura-apple-768x1131.jpg
+
+https://images.app.goo.gl/UXeM8JHZK3nrgAux6
+
+
+https://xd.adobe.com/view/83fecb37-c2e0-4c64-ae2a-2b65717e277c-d6ad/
+
+https://xd.adobe.com/view/83fecb37-c2e0-4c64-ae2a-2b65717e277c-d6ad/
+
+
+Júlia Ramos Rodrigues Alves 14:20
+Uma dúvida: esse carrossel funciona só pra consumo de imagens de API ou 
+funciona também para consumo de imagens/texto de arquivos locais do projeto?
+
+Isabela de Melo 14:21
+funciona também, Ju
+
+Júlia Ramos Rodrigues Alves 14:21
+Caramba, nem conhecia, gostei bastante
+
+Isabela de Melo 14:21
+simm
+
+kelly caroline 14:21
+Legal mesmo
+
+
+
+Júlia Ramos Rodrigues Alves 14:45
+O carrossel tem q fazer o responsivo na mão com o @media ou tem como 
+deixar responsivo sem ele só usando esses estilos que você usou?
+
+Vinicius Bispo 14:46
+esse com certeza e o melhor jeito de fazer um carousel
+
+
+kelly caroline 14:47
+https://images.app.goo.gl/UXeM8JHZK3nrgAux6
+
+Karynne Moreira 14:47
+só especificar o tamanho da tela e a quantidade de imagens
+
+Liz M. 14:47
+https://br.web.img3.acsta.net/pictures/22/05/30/15/56/1469166.jpg
+
+Júlia Ramos Rodrigues Alves 14:48
+https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg
+
+Isabela de Melo 14:48
+https://seuladogeek.com.br/wp-content/uploads/2022/04/Ruptura-apple-768x1131.jpg
+
+
+Leandro de Aragão 09:13
+npm install --legacy-peer-deps
+
+natan silva 09:15
+export const GlobalStyle = createGlobalStyle ``
