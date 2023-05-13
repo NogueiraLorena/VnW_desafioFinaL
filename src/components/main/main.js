@@ -143,9 +143,10 @@ export default function Main() {
         </span>
 
         <span className="buttonsConteiner">
-          <button className="buttonOne">▶ Assistir agora</button>
-          <button className="buttonTwo">🎞 Trailer</button>
+    <a href="https://youtu.be/J1u0xNi798w"><button className="buttonOne">▶ Assistir agora</button></a>
+           <a href="https://youtu.be/l6JItoLw9PQ"><button className="buttonTwo">🎞 Trailer</button></a>
         </span>
+    
       </div>
 
       <div className="listContainer">
