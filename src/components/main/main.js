@@ -6,19 +6,18 @@ export const MainStyle = styled.main`
 
 section{
 border: solid 2px red;
-height: 44vh;
-background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0% no-repeat padding-box;
+height: 29vh;
 }
 
   .movieDescription {
-  border: solid 2px yellow;
-    height: 34vhvh;
+  background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0% no-repeat padding-box;
+  height: 34vhvh;
     padding-left: 6em;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
    position: relative;
-    bottom: 25rem;
+    bottom: 24rem;
    }
 
   .titlesContainer {
@@ -102,13 +101,11 @@ background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0
 
   .listContainer {
   height: 7vh;
-   margin-top: 4rem;
-  
+   margin-top: 14rem;
   display: flex;
     justify-content: space-around;
     align-items: center;
-    border: solid 2px blue;
-  }
+   }
 
   ul {
     list-style: none;
