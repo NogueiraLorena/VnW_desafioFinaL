@@ -5,7 +5,7 @@ export const MainStyle = styled.main`
   color: white;
 
 section{
-border: solid 2px red;
+color: white;
 height: 29vh;
 }
 
