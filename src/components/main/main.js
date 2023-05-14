@@ -4,16 +4,21 @@ import styled from "styled-components";
 export const MainStyle = styled.main`
   color: white;
 
+section{
+border: solid 2px red;
+height: 600px;
+background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0% no-repeat padding-box;
+}
+
   .movieDescription {
     height: 545px;
     padding-left: 6em;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%)
-      0% 0% no-repeat padding-box;
+    
     position: relative;
-    bottom: 25rem;
+    bottom: 15rem;
    
   }
 
@@ -118,6 +123,7 @@ export const MainStyle = styled.main`
 export default function Main() {
   return (
     <MainStyle>
+    <section>
       <div className="movieDescription">
         <span className="titlesContainer">
           <h1>Avatar: o Caminho da Água</h1>
@@ -169,6 +175,7 @@ export default function Main() {
           alt="imagem (icone) de uma lupa"
         />
       </div>
+    </section>
     </MainStyle>
   );
 }
