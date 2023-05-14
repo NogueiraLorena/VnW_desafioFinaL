@@ -11,7 +11,8 @@ background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0
 }
 
   .movieDescription {
-    height: 545px;
+  border: solid 2px yellow;
+    height: 10vh;
     padding-left: 6em;
     display: flex;
     flex-direction: column;
@@ -36,7 +37,7 @@ background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0
   .containerStar {
     position: relative;
     bottom: 1.3rem;
-    width: 14%;
+ width: 14%;
     height: 3rem;
     display: flex;
     justify-content: space-around;
@@ -102,12 +103,11 @@ background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0
   }
 
   .listContainer {
-    margin-top: -15rem;
-    margin-bottom: 5rem;
-    height: 7vh;
+  height: 7vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: solid 2px blue;
   }
 
   ul {
