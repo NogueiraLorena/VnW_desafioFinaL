@@ -17,7 +17,7 @@ height: 29vh;
     flex-direction: column;
     align-items: flex-start;
    position: relative;
-    bottom: 24rem;
+    bottom: 23rem;
    }
 
   .titlesContainer {
@@ -101,7 +101,7 @@ height: 29vh;
 
   .listContainer {
   height: 7vh;
-   margin-top: 14rem;
+   margin-top: -15rem;
   display: flex;
     justify-content: space-around;
     align-items: center;
