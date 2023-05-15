@@ -5,6 +5,7 @@ export const MainStyle = styled.main`
   color: white;
 
 section{
+ margin-top: -1rem;
 color: white;
 height: 29vh;
 }
