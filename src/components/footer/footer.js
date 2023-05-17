@@ -19,9 +19,10 @@ export default function Footer() {
       <div>
         <img
           src="https://14hp17.csb.app/componentFooter.jpg"
-          alt="imagem de uma estrela"
+          alt="image that symbolizes a footer scroll bar"
         />
       </div>
+    
     </FooterStyle>
   );
 }
